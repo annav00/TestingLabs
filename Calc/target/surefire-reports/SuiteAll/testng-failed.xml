@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [SuiteAll]" verbose="0">
+  <test thread-count="5" name="AllTest(failed)" verbose="0">
+    <classes>
+      <class name="hw1.MultiplyTest">
+        <methods>
+          <include name="multDoubleTest" invocation-numbers="3 4 5 9"/>
+        </methods>
+      </class> <!-- hw1.MultiplyTest -->
+    </classes>
+  </test> <!-- AllTest(failed) -->
+</suite> <!-- Failed suite [SuiteAll] -->
