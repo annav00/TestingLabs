@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="SuiteDivideMultiply">
+    <test name="DivideMultiplyTest">
+        <groups>
+            <run>
+                <include name="DivideMultiply"/>
+            </run>
+        </groups>
+        <classes>
+            <class name="hw1.MultiplyTest"/>
+            <class name="hw1.DivideTest"/>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="SuiteAll">
+    <test name="AllTest">
+        <packages>
+            <package name="hw1.*"/>
+        </packages>
+    </test>
+</suite>

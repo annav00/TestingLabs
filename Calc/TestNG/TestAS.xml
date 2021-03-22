@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="SuiteAddSubtract">
+    <test name="AddSubtractTest">
+        <groups>
+            <run>
+                <include name="AddSubtract"/>
+            </run>
+        </groups>
+        <classes>
+            <class name="hw1.AddTest"/>
+            <class name="hw1.SubtractTest"/>
+        </classes>
+    </test>
+</suite>
