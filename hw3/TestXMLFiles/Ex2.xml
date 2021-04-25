@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="SuiteEx2">
+    <test name="TestEx2">
+        <classes>
+            <class name="hw3.ex2.Ex2TestRunner" />
+        </classes>
+    </test>
+</suite>
